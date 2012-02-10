@@ -3,11 +3,19 @@ A simple WordPress plugin to store submitted e-mail addresses in the database an
 
 The code generates a text inputfield for submission of the address as well as the possibility to remove it from the database.
 
+===
+
 Plugin Name: Twentyfour Email Bin
+
 Plugin URI: http://www.24hr.se/
-Description: Just store all emails submitted in a separate database. Adds an admin view.
+
+Description: Just store all emails submitted in a separate 
+database. Adds an admin view.
+
 Version: 1.0
+
 Author: Kristian Erendi & Erik Johansson
+
 License: GPL2
 
 ## Usage
@@ -21,6 +29,7 @@ Plugin is in Swedish only for now.
 
 ## License
 (The GPL2 License)
+
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License, version 2, as
 published by the Free Software Foundation.
