@@ -3,7 +3,7 @@ A simple WordPress plugin to store submitted e-mail addresses in the database an
 
 The code generates a text inputfield for submission of the address as well as the possibility to remove it from the database.
 
-===
+***
 
 Plugin Name: Twentyfour Email Bin
 
@@ -22,12 +22,12 @@ License: GPL2
 1. Download the zip and unzip it in your plugins folder.
 2. Activate the plugin.
 3. Put the following code in your theme where you want the e-mail address input to show up.
-
+ 
     <?php      
       $eb = new  TwentyfourEmailBin();
       $eb->twentyfourEBCode();
     ?>
-
+ 
 ## Note
 Plugin is in Swedish only for now.
 
