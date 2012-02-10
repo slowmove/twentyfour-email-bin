@@ -23,7 +23,7 @@ License: GPL2
 2. Activate the plugin.
 3. Put the following code in your theme where you want the e-mail address input to show up.
 
- 
+
     <?php
       $eb = new  TwentyfourEmailBin();
       $eb->twentyfourEBCode();
